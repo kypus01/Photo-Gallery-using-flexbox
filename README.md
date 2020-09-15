@@ -1,2 +1,2 @@
 # Photo-Gallery-using-flexbox
-This is a photo gallery webite
+This is a photo gallery website
