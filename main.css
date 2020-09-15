@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    /* padding: 0; */
+}
+
+.column{
+    flex: 24%;
+    padding: 2px;
+}
+
+@media (max-width:700px) {
+    .column{
+        flex: 49%;
+    }
+}
+
+@media (max-width:635px) {
+    .column{
+        flex: 100%;
+    }
+}
